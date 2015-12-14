@@ -9,7 +9,7 @@ pkgdesc='Keepass web app'
 arch=('x86_64')
 url='https://github.com/antelle/keeweb'
 license=('MIT')
-source=("https://github.com/antelle/keeweb/releases/download/v0.4.6/KeeWeb.linux.x64.zip" keeweb.desktop)
+source=("https://github.com/antelle/keeweb/releases/download/v$pkgver/KeeWeb.linux.x64.zip" keeweb.desktop)
 sha256sums=("eefad46b82f238b8d7fd936a5af9f561003fefba7108307206bdc8b51f3fa8b6" "1e67ee7d0758110e1935521080266396465a592a5abe8be521736e5e9cf61f75")
 
 
