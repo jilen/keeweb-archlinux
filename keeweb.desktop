@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=KeeWeb
+GenericName=Keepass Web App
+Exec=KeeWeb
+Icon=keepass
+Terminal=false
+Type=Application
+Categories=Utility;
+MimeType=application/x-keepass2;
