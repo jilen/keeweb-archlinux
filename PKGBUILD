@@ -10,7 +10,7 @@ arch=('x86_64')
 url='https://github.com/antelle/keeweb'
 license=('MIT')
 source=("https://github.com/antelle/keeweb/releases/download/v$pkgver/KeeWeb.linux.x64.zip" keeweb.desktop)
-sha256sums=("eefad46b82f238b8d7fd936a5af9f561003fefba7108307206bdc8b51f3fa8b6" "1e67ee7d0758110e1935521080266396465a592a5abe8be521736e5e9cf61f75")
+sha256sums=("4bed2321519ffbf9a35d1abe98cc7e3b4ea4c477fbb8a6ae2f2d4d8ccc040d46" "1e67ee7d0758110e1935521080266396465a592a5abe8be521736e5e9cf61f75")
 
 
 
