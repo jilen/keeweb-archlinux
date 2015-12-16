@@ -3,7 +3,7 @@
 #
 
 pkgname=keeweb
-pkgver=0.4.6
+pkgver=0.5.1
 pkgrel=1
 pkgdesc='Keepass web app'
 arch=('x86_64')
